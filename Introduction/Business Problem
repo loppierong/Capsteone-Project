@@ -1,0 +1,9 @@
+Someone want to open a restaurant in the city of NewYork, where would be better to locate?
+
+First of all we get the location data of NewYork City, try to figure out which Borough is better to open a restaurant depends on the 
+number of it, then we take futher steps to find a suitable neighborhood to locate the restaurant, the judgment
+criteria will be futher defined.
+
+Criteria
+1. The restaurant should be opened in the near of big shoppingmal or some place has bigger population mobility
+2. The Distance to other restaurant should be over 200m
